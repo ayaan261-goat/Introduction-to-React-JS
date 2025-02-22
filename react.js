@@ -2,4 +2,4 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-ReactDOM.render(<p>Hello</p>,document.getElementById('root'))
+const myelement= <h1>Myelment</h1>
